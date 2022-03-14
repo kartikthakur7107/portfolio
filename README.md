@@ -1,2 +1,2 @@
 # portfolio
-kartik.gq
+www.kartik.gq
