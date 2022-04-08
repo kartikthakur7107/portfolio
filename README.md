@@ -1,2 +1,2 @@
 # portfolio
-<h1>www.kartik.gq</h1>
+<h1>http://www.kartik.gq</h1>
